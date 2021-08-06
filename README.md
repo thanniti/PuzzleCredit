@@ -1,3 +1,6 @@
 # PuzzleCredit
-PuzzleCredit (Puzzle) is a decentralize game token 
-Puzzles Credit ย่อเป็น PUZZLE คือ decentralize coin โดยปกติการแลกเปลี่ยนผ่านในเกมจะเปลี่ยนผ่านกันจากช่องทางโซเชียลมีเดียต่างๆ แต่การแลกเปลี่ยนเหล่านั้นไม่ได้ทำงานบนระบบบล็อกเชนและไม่มีความ Decentralize ใช้ความน่าเชื่อถือของตัวบุคคลเป็นหลัก ดังนั้น PuzzlesCredit จะเป็นสะพานเชื่อมการแลกเปลี่ยนกันในเกมกับระบบบล็อกเชนและเพิ่มความ Decentralize 
+Puzzles Credit, formally symbolized as PUZZLE, is a decentralized coin. Normally, items in the game would be trade on social media, but those trades aren’t run on a blockchain also they’re not decentralize. However, PuzzleCredit will bring those trade run on blockchain to increase the decentralization.
+
+# ERC20
+Puzzlecredit codes from Solidity in ERC20 and processing on Ethereum Blockchain using 
+Proof of Stake.
