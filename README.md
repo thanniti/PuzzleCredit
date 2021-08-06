@@ -1,2 +1,2 @@
 # PuzzleCredit
-PuzzleCredit (Puzzle)
+PuzzleCredit (Puzzle) is a decentralize game token 
